@@ -1,2 +1,2 @@
 # javascript-practice
-practicing javascript
+practicing javascript basics
